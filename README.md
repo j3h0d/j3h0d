@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20to%20my%20GitHub%20Society&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=87CEEB&height=250&section=header&text=Welcome%20to%20my%20GitHub%20Society&fontSize=45&fontColor=5CA044&stroke=5C3A21&strokeWidth=2&animation=blinking&desc=Computer%20Science%20%40%20KTH%20%7C%20Cybersecurity&descSize=22&descAlignY=70)
 
 <!--
 **j3h0d/j3h0d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
