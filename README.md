@@ -1,4 +1,4 @@
-![Minecraft Header](https://capsule-render.vercel.app/api?type=transparent&fontColor=47A036&stroke=866043&strokeWidth=2&fontFamily=Minecraft&text=Welcome%20to%20my%20GitHub%20Society&height=150&fontSize=50&desc=Minecraft%20Edition&descAlignY=75&descAlign=60)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hello%20There!&fontSize=70&color=0:1a1a1a,100:000000&fontColor=00ff00&stroke=005500)
 
 <!--
 **j3h0d/j3h0d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
