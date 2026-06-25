@@ -2,12 +2,6 @@
 
 Welcome to my GitHub. I'm a Computer Science Engineering student at **KTH Royal Institute of Technology** in Stockholm. Passionate about building secure systems, full-stack architecture, and exploring the intersection of software engineering and cybersecurity.
 
-### Featured Projects
-
-* **[Stylist Booking Platform](https://github.com/j3h0d/booking-app)** – Full-stack multi-tenant web app built with **Next.js, Spring Boot, PostgreSQL**. Production-ready with authentication, real-time scheduling, and payment integration.
-* **[AIDA – AI Voice Bot](https://github.com/j3h0d/aida)** – Emergency response assistant using **Python, speech-to-text, and LLMs**. Developed in collaboration with Swedish Defence Research Agency.
-* **[DE10-Lite RISC-V Chess](https://github.com/j3h0d/riscv-chess)** – Interactive 2D chess game on FPGA with low-level **Assembly** routines for hardware control.
-
 ### What I'm Doing
 
 * **Software Engineering:** Building a production-ready, multi-tenant booking platform utilizing **Next.js, Spring Boot (Modulith), and PostgreSQL**.
