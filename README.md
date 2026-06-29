@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hello%20There!&fontSize=70&color=0:1a1a1a,100:000000&fontColor=00ff00&stroke=005500)
 
-Welcome to my GitHub. I'm a Computer Science Engineering student at **KTH Royal Institute of Technology** in Stockholm. Passionate about building secure systems, full-stack architecture, and exploring the intersection of software engineering and cybersecurity.
+Welcome to my GitHub. I'm a Computer Science Engineering student at **KTH Royal Institute of Technology** in Stockholm. Passionate about building secure systems and exploring the intersection of software engineering and cybersecurity.
 
 ### What I'm Doing
 
@@ -12,11 +12,13 @@ Welcome to my GitHub. I'm a Computer Science Engineering student at **KTH Royal 
 
 ### Core Tech Stack
 
-* **Languages:** TypeScript, Java 21, Python, C, RISC-V Assembly
-* **Frontend:** Next.js (React), Tailwind CSS, TanStack Query
-* **Backend & DB:** Spring Boot, PostgreSQL, Spring Data JPA
-* **DevOps & Testing:** Docker, GitHub Actions, Vercel, Caddy, Testcontainers, JUnit
-* **Security:** CTF challenges, secure systems design, low-level programming
+* **Languages:** TypeScript, Java, Python, C, RISC-V Assembly
+* **Frontend:** Next.js, React, Tailwind CSS, TanStack Query
+* **Backend & Database:** Spring Boot (Modulith), PostgreSQL, Spring Data JPA, Gradio
+* **Hardware & Embedded:** RISC-V soft processors, FPGA (Altera DE10-Lite), VGA graphics, bare-metal C
+* **DevOps & Cloud:** Docker, GitHub Actions, Vercel, Modal, Caddy
+* **AI & ML:** Whisper (ASR), LLMs (vLLM, Qwen-2.5), Voice synthesis (edge-tts), Emotion recognition
+* **Testing & Quality:** JUnit, Testcontainers, GitHub Actions CI/CD
 
 ### Goals
 
