@@ -26,4 +26,4 @@ Aiming for a **Software Engineering or Cybersecurity internship for Summer 2027*
 
 ---
 
-**📍 Stockholm** | [LinkedIn](#) | [Email](mailto:your-email@example.com)
+**📍 Stockholm** | [LinkedIn](#https://www.linkedin.com/in/jehadomar/) | [Email](mailto:jehado@kth.se)
